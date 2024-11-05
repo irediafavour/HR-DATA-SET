@@ -25,5 +25,16 @@ This project focuses on analyzing the provided HR dataset to understand employee
 The primary objective is to identify factors contributing to employee attrition by analyzing the relationship between job satisfaction, demographics, and career progression. 
 
 ### Tools Used
+Power BI for creating interactive visualizations and dashboards
 
 ### Formula Used
+1. Attrition rate = sum ('HR data' [Attrition Count]) / sum ('HR data' [Employee Count])
+2. Average age = AVERAGE ('HR data' [age])
+3. Use of conditional columns
+
+## DATA VISUALIZATION
+![HR visualization](https://github.com/user-attachments/assets/592f4f03-a060-48b2-950f-48413593d921)
+![Attrition](https://github.com/user-attachments/assets/246c87e9-10cb-4ce9-86a8-317dae175662)
+![Employee](https://github.com/user-attachments/assets/64db2b9e-f589-4033-8b8c-d477560d4b56)
+
+
